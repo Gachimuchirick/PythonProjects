@@ -3,7 +3,7 @@ print("Welcome to the game of MASH")
 # Create a set of lists for each category
 
 mash = ["Mansion", "Apartment", "Shack", "House"]
-mary = ["Empty", "Empty", "Empty", "Empty"]
+marry = ["Empty", "Empty", "Empty", "Empty"]
 kids = [ 1, 2, 3, 4]
 job = ["Empty", "Empty", "Empty", "Empty"]
 salary = [ 1, 2, 3, 4]
@@ -13,18 +13,18 @@ place = ["Empty", "Empty", "Empty", "Empty"]
 # # Ask for user input and replace elements in each category with user input
 
 
-print("\nName four people you'd like to mary?")
+print("\nName four people you'd like to marry?")
 
-mary1 = input("First Name:\n")
-mary[0] = mary1
-mary2 = input("Second Name:\n")
-mary[1] = mary2
-mary3 = input("Third Name:\n")
-mary[2] = mary3
-mary4 = input("Fourth Name:\n")
-mary[3] = mary4
+marry1 = input("First Name:\n")
+marry[0] = marry1
+marry2 = input("Second Name:\n")
+marry[1] = marry2
+marry3 = input("Third Name:\n")
+marry[2] = marry3
+marry4 = input("Fourth Name:\n")
+marry[3] = marry4
 
-print(mary)
+print(marry)
 
 print("\n list 4 amounts of kids you would like to have")
 
